@@ -1,10 +1,4 @@
-   _       _           _  ___  ____  
-  (_) __ _| |__  _   _| |/ _ \/ ___| 
-  | |/ _` | '_ \| | | | | | | \___ \ 
-  | | (_| | |_) | |_| | | |_| |___) |
- _/ |\__,_|_.__/ \__,_|_|\___/|____/ 
-|__/                                 
-
+JABULOS AERO TECHNICAL PREVIEW
 
 Welcome To jabulOS Aero insider, This build holds all the containing apps (Settings, Start, Task, Terminal And Files)
 
